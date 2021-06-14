@@ -6,6 +6,6 @@
 
 * the rules `arrayPredicate`, `function` and `arithmeticExpression` do not have to be supported;
 * in rule `spatialOperator` only "INTERSECTS" has to be supported;
-* in rule `temporalOperator` only "ANYINTERACTS" has to be supported.
+* in rule `temporalOperator` only "T_EQUALS", "T_BEFORE" and "T_AFTER" have to be supported and only for instant-instant-comparisons.
 |===
 
